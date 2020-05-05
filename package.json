@@ -1,0 +1,8 @@
+{
+  "name": "random-color-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AlenioH/random-color-generator.git",
+  "author": "Alena Hasslacher <alena.hasslacher@gmail.com>",
+  "license": "MIT"
+}
