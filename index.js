@@ -6,7 +6,7 @@ let color = randomColor({
   luminosity: process.argv[3],
 });
 
-let colorScheme = createColor(color, 'ybold');
+let colorScheme = createColor(color, 'bold');
 let finalMessage = colorScheme(`##############################
 ##############################
 ###########         ##########
